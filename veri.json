@@ -1,0 +1,20 @@
+[
+    {
+        "id": "maviş",
+        "tur": "Kedi",
+        "ad": "maviş",
+        "yas": "3",
+        "saglik": "iyi",
+        "durum": "Barınakta",
+        "ekstra": "Tüy: siyah"
+    },
+    {
+        "id": "kangal",
+        "tur": "Kopek",
+        "ad": "kangal",
+        "yas": "4",
+        "saglik": "çok iyi",
+        "durum": "Barınakta",
+        "ekstra": "Cins: kangal"
+    }
+]
